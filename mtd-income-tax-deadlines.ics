@@ -1,0 +1,386 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Smallwright//mtd-quarterly-deadlines//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:MTD for Income Tax deadlines
+X-WR-TIMEZONE:Europe/London
+BEGIN:VEVENT
+UID:2026-27-Q1@mtd-quarterly-deadlines.smallwright
+DTSTAMP:20261114T000000Z
+DTSTART;VALUE=DATE:20260807
+DTEND;VALUE=DATE:20260808
+SUMMARY:MTD quarterly update 2026-27 Q1 due
+DESCRIPTION:MTD quarterly update 2026-27 Q1 due. Covers 2026-04-06 to 2026-
+ 07-05 (standard) or 2026-04-01 to 2026-06-30 (calendar). Who: People in MT
+ D for Income Tax that year: qualifying income over £50\,000 in 2024-25. N
+ o penalty points for late quarterly updates in 2026-27 (HMRC). Source: htt
+ ps://www.gov.uk/guidance/use-making-tax-digital-for-income-tax/send-quarte
+ rly-updates
+URL:https://www.gov.uk/guidance/use-making-tax-digital-for-income-tax/send-
+ quarterly-updates
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-27-Q2@mtd-quarterly-deadlines.smallwright
+DTSTAMP:20261114T000000Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:MTD quarterly update 2026-27 Q2 due
+DESCRIPTION:MTD quarterly update 2026-27 Q2 due. Covers 2026-07-06 to 2026-
+ 10-05 (standard) or 2026-07-01 to 2026-09-30 (calendar). Who: People in MT
+ D for Income Tax that year: qualifying income over £50\,000 in 2024-25. N
+ o penalty points for late quarterly updates in 2026-27 (HMRC). Source: htt
+ ps://www.gov.uk/guidance/use-making-tax-digital-for-income-tax/send-quarte
+ rly-updates
+URL:https://www.gov.uk/guidance/use-making-tax-digital-for-income-tax/send-
+ quarterly-updates
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-27-first-payment-on-account@mtd-quarterly-deadlines.smallwright
+DTSTAMP:20261114T000000Z
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+SUMMARY:First payment on account for 2026-27 due (if you make payments on a
+ ccount)
+DESCRIPTION:First payment on account for 2026-27 due (if you make payments 
+ on account). Who: Self Assessment taxpayers who owe tax. Usually half of t
+ he previous year's bill\; not needed if that bill was under £1\,000 or ov
+ er 80% was collected another way. MTD does not change payment dates. Sourc
+ e: https://www.gov.uk/understand-self-assessment-bill/payments-on-account
+URL:https://www.gov.uk/understand-self-assessment-bill/payments-on-account
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-27-Q3@mtd-quarterly-deadlines.smallwright
+DTSTAMP:20261114T000000Z
+DTSTART;VALUE=DATE:20270207
+DTEND;VALUE=DATE:20270208
+SUMMARY:MTD quarterly update 2026-27 Q3 due
+DESCRIPTION:MTD quarterly update 2026-27 Q3 due. Covers 2026-10-06 to 2027-
+ 01-05 (standard) or 2026-10-01 to 2026-12-31 (calendar). Who: People in MT
+ D for Income Tax that year: qualifying income over £50\,000 in 2024-25. N
+ o penalty points for late quarterly updates in 2026-27 (HMRC). Source: htt
+ ps://www.gov.uk/guidance/use-making-tax-digital-for-income-tax/send-quarte
+ rly-updates
+URL:https://www.gov.uk/guidance/use-making-tax-digital-for-income-tax/send-
+ quarterly-updates
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-27-Q4@mtd-quarterly-deadlines.smallwright
+DTSTAMP:20261114T000000Z
+DTSTART;VALUE=DATE:20270507
+DTEND;VALUE=DATE:20270508
+SUMMARY:MTD quarterly update 2026-27 Q4 due
+DESCRIPTION:MTD quarterly update 2026-27 Q4 due. Covers 2027-01-06 to 2027-
+ 04-05 (standard) or 2027-01-01 to 2027-03-31 (calendar). Who: People in MT
+ D for Income Tax that year: qualifying income over £50\,000 in 2024-25. N
+ o penalty points for late quarterly updates in 2026-27 (HMRC). Source: htt
+ ps://www.gov.uk/guidance/use-making-tax-digital-for-income-tax/send-quarte
+ rly-updates
+URL:https://www.gov.uk/guidance/use-making-tax-digital-for-income-tax/send-
+ quarterly-updates
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-27-second-payment-on-account@mtd-quarterly-deadlines.smallwright
+DTSTAMP:20261114T000000Z
+DTSTART;VALUE=DATE:20270731
+DTEND;VALUE=DATE:20270801
+SUMMARY:Second payment on account for 2026-27 due (if you make payments on 
+ account)
+DESCRIPTION:Second payment on account for 2026-27 due (if you make payments
+  on account). Who: Self Assessment taxpayers who owe tax. MTD does not cha
+ nge payment dates. Source: https://www.gov.uk/understand-self-assessment-b
+ ill/payments-on-account
+URL:https://www.gov.uk/understand-self-assessment-bill/payments-on-account
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-28-Q1@mtd-quarterly-deadlines.smallwright
+DTSTAMP:20261114T000000Z
+DTSTART;VALUE=DATE:20270807
+DTEND;VALUE=DATE:20270808
+SUMMARY:MTD quarterly update 2027-28 Q1 due
+DESCRIPTION:MTD quarterly update 2027-28 Q1 due. Covers 2027-04-06 to 2027-
+ 07-05 (standard) or 2027-04-01 to 2027-06-30 (calendar). Who: People in MT
+ D for Income Tax that year: qualifying income over £30\,000 in 2025-26 (p
+ lus everyone already in). A late quarterly update earns a penalty point (o
+ ne per deadline\, even with several businesses)\; at 4 points a £200 pena
+ lty\, then £200 for each further missed deadline. Volunteers: no points f
+ or late quarterly updates. Source: https://www.gov.uk/guidance/use-making-
+ tax-digital-for-income-tax/send-quarterly-updates
+URL:https://www.gov.uk/guidance/use-making-tax-digital-for-income-tax/send-
+ quarterly-updates
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-28-Q2@mtd-quarterly-deadlines.smallwright
+DTSTAMP:20261114T000000Z
+DTSTART;VALUE=DATE:20271107
+DTEND;VALUE=DATE:20271108
+SUMMARY:MTD quarterly update 2027-28 Q2 due
+DESCRIPTION:MTD quarterly update 2027-28 Q2 due. Covers 2027-07-06 to 2027-
+ 10-05 (standard) or 2027-07-01 to 2027-09-30 (calendar). Who: People in MT
+ D for Income Tax that year: qualifying income over £30\,000 in 2025-26 (p
+ lus everyone already in). A late quarterly update earns a penalty point (o
+ ne per deadline\, even with several businesses)\; at 4 points a £200 pena
+ lty\, then £200 for each further missed deadline. Volunteers: no points f
+ or late quarterly updates. Source: https://www.gov.uk/guidance/use-making-
+ tax-digital-for-income-tax/send-quarterly-updates
+URL:https://www.gov.uk/guidance/use-making-tax-digital-for-income-tax/send-
+ quarterly-updates
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-27-balancing-payment@mtd-quarterly-deadlines.smallwright
+DTSTAMP:20261114T000000Z
+DTSTART;VALUE=DATE:20280131
+DTEND;VALUE=DATE:20280201
+SUMMARY:Balancing payment for 2026-27 due (tax owed after any payments on a
+ ccount)
+DESCRIPTION:Balancing payment for 2026-27 due (tax owed after any payments 
+ on account). Who: Self Assessment taxpayers who owe tax. MTD does not chan
+ ge payment dates. Source: https://www.gov.uk/self-assessment-tax-returns/d
+ eadlines
+URL:https://www.gov.uk/self-assessment-tax-returns/deadlines
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-28-first-payment-on-account@mtd-quarterly-deadlines.smallwright
+DTSTAMP:20261114T000000Z
+DTSTART;VALUE=DATE:20280131
+DTEND;VALUE=DATE:20280201
+SUMMARY:First payment on account for 2027-28 due (if you make payments on a
+ ccount)
+DESCRIPTION:First payment on account for 2027-28 due (if you make payments 
+ on account). Who: Self Assessment taxpayers who owe tax. Usually half of t
+ he previous year's bill\; not needed if that bill was under £1\,000 or ov
+ er 80% was collected another way. MTD does not change payment dates. Sourc
+ e: https://www.gov.uk/understand-self-assessment-bill/payments-on-account
+URL:https://www.gov.uk/understand-self-assessment-bill/payments-on-account
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-27-return@mtd-quarterly-deadlines.smallwright
+DTSTAMP:20261114T000000Z
+DTSTART;VALUE=DATE:20280131
+DTEND;VALUE=DATE:20280201
+SUMMARY:Tax return for 2026-27 due (online\, 11:59pm)
+DESCRIPTION:Tax return for 2026-27 due (online\, 11:59pm). Who: Everyone wh
+ o files a Self Assessment return (through MTD software if in MTD that year
+ ). Submitted through MTD-compatible software for anyone in MTD that year. 
+ Penalty points apply to late returns. Source: https://www.gov.uk/self-asse
+ ssment-tax-returns/deadlines
+URL:https://www.gov.uk/self-assessment-tax-returns/deadlines
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-28-Q3@mtd-quarterly-deadlines.smallwright
+DTSTAMP:20261114T000000Z
+DTSTART;VALUE=DATE:20280207
+DTEND;VALUE=DATE:20280208
+SUMMARY:MTD quarterly update 2027-28 Q3 due
+DESCRIPTION:MTD quarterly update 2027-28 Q3 due. Covers 2027-10-06 to 2028-
+ 01-05 (standard) or 2027-10-01 to 2027-12-31 (calendar). Who: People in MT
+ D for Income Tax that year: qualifying income over £30\,000 in 2025-26 (p
+ lus everyone already in). A late quarterly update earns a penalty point (o
+ ne per deadline\, even with several businesses)\; at 4 points a £200 pena
+ lty\, then £200 for each further missed deadline. Volunteers: no points f
+ or late quarterly updates. Source: https://www.gov.uk/guidance/use-making-
+ tax-digital-for-income-tax/send-quarterly-updates
+URL:https://www.gov.uk/guidance/use-making-tax-digital-for-income-tax/send-
+ quarterly-updates
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-28-Q4@mtd-quarterly-deadlines.smallwright
+DTSTAMP:20261114T000000Z
+DTSTART;VALUE=DATE:20280507
+DTEND;VALUE=DATE:20280508
+SUMMARY:MTD quarterly update 2027-28 Q4 due
+DESCRIPTION:MTD quarterly update 2027-28 Q4 due. Covers 2028-01-06 to 2028-
+ 04-05 (standard) or 2028-01-01 to 2028-03-31 (calendar). Who: People in MT
+ D for Income Tax that year: qualifying income over £30\,000 in 2025-26 (p
+ lus everyone already in). A late quarterly update earns a penalty point (o
+ ne per deadline\, even with several businesses)\; at 4 points a £200 pena
+ lty\, then £200 for each further missed deadline. Volunteers: no points f
+ or late quarterly updates. Source: https://www.gov.uk/guidance/use-making-
+ tax-digital-for-income-tax/send-quarterly-updates
+URL:https://www.gov.uk/guidance/use-making-tax-digital-for-income-tax/send-
+ quarterly-updates
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-28-second-payment-on-account@mtd-quarterly-deadlines.smallwright
+DTSTAMP:20261114T000000Z
+DTSTART;VALUE=DATE:20280731
+DTEND;VALUE=DATE:20280801
+SUMMARY:Second payment on account for 2027-28 due (if you make payments on 
+ account)
+DESCRIPTION:Second payment on account for 2027-28 due (if you make payments
+  on account). Who: Self Assessment taxpayers who owe tax. MTD does not cha
+ nge payment dates. Source: https://www.gov.uk/understand-self-assessment-b
+ ill/payments-on-account
+URL:https://www.gov.uk/understand-self-assessment-bill/payments-on-account
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2028-29-Q1@mtd-quarterly-deadlines.smallwright
+DTSTAMP:20261114T000000Z
+DTSTART;VALUE=DATE:20280807
+DTEND;VALUE=DATE:20280808
+SUMMARY:MTD quarterly update 2028-29 Q1 due
+DESCRIPTION:MTD quarterly update 2028-29 Q1 due. Covers 2028-04-06 to 2028-
+ 07-05 (standard) or 2028-04-01 to 2028-06-30 (calendar). Who: People in MT
+ D for Income Tax that year: qualifying income over £20\,000 in 2026-27 (p
+ lus everyone already in). A late quarterly update earns a penalty point (o
+ ne per deadline\, even with several businesses)\; at 4 points a £200 pena
+ lty\, then £200 for each further missed deadline. Volunteers: no points f
+ or late quarterly updates. Source: https://www.gov.uk/guidance/use-making-
+ tax-digital-for-income-tax/send-quarterly-updates
+URL:https://www.gov.uk/guidance/use-making-tax-digital-for-income-tax/send-
+ quarterly-updates
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2028-29-Q2@mtd-quarterly-deadlines.smallwright
+DTSTAMP:20261114T000000Z
+DTSTART;VALUE=DATE:20281107
+DTEND;VALUE=DATE:20281108
+SUMMARY:MTD quarterly update 2028-29 Q2 due
+DESCRIPTION:MTD quarterly update 2028-29 Q2 due. Covers 2028-07-06 to 2028-
+ 10-05 (standard) or 2028-07-01 to 2028-09-30 (calendar). Who: People in MT
+ D for Income Tax that year: qualifying income over £20\,000 in 2026-27 (p
+ lus everyone already in). A late quarterly update earns a penalty point (o
+ ne per deadline\, even with several businesses)\; at 4 points a £200 pena
+ lty\, then £200 for each further missed deadline. Volunteers: no points f
+ or late quarterly updates. Source: https://www.gov.uk/guidance/use-making-
+ tax-digital-for-income-tax/send-quarterly-updates
+URL:https://www.gov.uk/guidance/use-making-tax-digital-for-income-tax/send-
+ quarterly-updates
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-28-balancing-payment@mtd-quarterly-deadlines.smallwright
+DTSTAMP:20261114T000000Z
+DTSTART;VALUE=DATE:20290131
+DTEND;VALUE=DATE:20290201
+SUMMARY:Balancing payment for 2027-28 due (tax owed after any payments on a
+ ccount)
+DESCRIPTION:Balancing payment for 2027-28 due (tax owed after any payments 
+ on account). Who: Self Assessment taxpayers who owe tax. MTD does not chan
+ ge payment dates. Source: https://www.gov.uk/self-assessment-tax-returns/d
+ eadlines
+URL:https://www.gov.uk/self-assessment-tax-returns/deadlines
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2028-29-first-payment-on-account@mtd-quarterly-deadlines.smallwright
+DTSTAMP:20261114T000000Z
+DTSTART;VALUE=DATE:20290131
+DTEND;VALUE=DATE:20290201
+SUMMARY:First payment on account for 2028-29 due (if you make payments on a
+ ccount)
+DESCRIPTION:First payment on account for 2028-29 due (if you make payments 
+ on account). Who: Self Assessment taxpayers who owe tax. Usually half of t
+ he previous year's bill\; not needed if that bill was under £1\,000 or ov
+ er 80% was collected another way. MTD does not change payment dates. Sourc
+ e: https://www.gov.uk/understand-self-assessment-bill/payments-on-account
+URL:https://www.gov.uk/understand-self-assessment-bill/payments-on-account
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-28-return@mtd-quarterly-deadlines.smallwright
+DTSTAMP:20261114T000000Z
+DTSTART;VALUE=DATE:20290131
+DTEND;VALUE=DATE:20290201
+SUMMARY:Tax return for 2027-28 due (online\, 11:59pm)
+DESCRIPTION:Tax return for 2027-28 due (online\, 11:59pm). Who: Everyone wh
+ o files a Self Assessment return (through MTD software if in MTD that year
+ ). Submitted through MTD-compatible software for anyone in MTD that year. 
+ Penalty points apply to late returns. Source: https://www.gov.uk/self-asse
+ ssment-tax-returns/deadlines
+URL:https://www.gov.uk/self-assessment-tax-returns/deadlines
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2028-29-Q3@mtd-quarterly-deadlines.smallwright
+DTSTAMP:20261114T000000Z
+DTSTART;VALUE=DATE:20290207
+DTEND;VALUE=DATE:20290208
+SUMMARY:MTD quarterly update 2028-29 Q3 due
+DESCRIPTION:MTD quarterly update 2028-29 Q3 due. Covers 2028-10-06 to 2029-
+ 01-05 (standard) or 2028-10-01 to 2028-12-31 (calendar). Who: People in MT
+ D for Income Tax that year: qualifying income over £20\,000 in 2026-27 (p
+ lus everyone already in). A late quarterly update earns a penalty point (o
+ ne per deadline\, even with several businesses)\; at 4 points a £200 pena
+ lty\, then £200 for each further missed deadline. Volunteers: no points f
+ or late quarterly updates. Source: https://www.gov.uk/guidance/use-making-
+ tax-digital-for-income-tax/send-quarterly-updates
+URL:https://www.gov.uk/guidance/use-making-tax-digital-for-income-tax/send-
+ quarterly-updates
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2028-29-Q4@mtd-quarterly-deadlines.smallwright
+DTSTAMP:20261114T000000Z
+DTSTART;VALUE=DATE:20290507
+DTEND;VALUE=DATE:20290508
+SUMMARY:MTD quarterly update 2028-29 Q4 due
+DESCRIPTION:MTD quarterly update 2028-29 Q4 due. Covers 2029-01-06 to 2029-
+ 04-05 (standard) or 2029-01-01 to 2029-03-31 (calendar). Who: People in MT
+ D for Income Tax that year: qualifying income over £20\,000 in 2026-27 (p
+ lus everyone already in). A late quarterly update earns a penalty point (o
+ ne per deadline\, even with several businesses)\; at 4 points a £200 pena
+ lty\, then £200 for each further missed deadline. Volunteers: no points f
+ or late quarterly updates. Source: https://www.gov.uk/guidance/use-making-
+ tax-digital-for-income-tax/send-quarterly-updates
+URL:https://www.gov.uk/guidance/use-making-tax-digital-for-income-tax/send-
+ quarterly-updates
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2028-29-second-payment-on-account@mtd-quarterly-deadlines.smallwright
+DTSTAMP:20261114T000000Z
+DTSTART;VALUE=DATE:20290731
+DTEND;VALUE=DATE:20290801
+SUMMARY:Second payment on account for 2028-29 due (if you make payments on 
+ account)
+DESCRIPTION:Second payment on account for 2028-29 due (if you make payments
+  on account). Who: Self Assessment taxpayers who owe tax. MTD does not cha
+ nge payment dates. Source: https://www.gov.uk/understand-self-assessment-b
+ ill/payments-on-account
+URL:https://www.gov.uk/understand-self-assessment-bill/payments-on-account
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2028-29-balancing-payment@mtd-quarterly-deadlines.smallwright
+DTSTAMP:20261114T000000Z
+DTSTART;VALUE=DATE:20300131
+DTEND;VALUE=DATE:20300201
+SUMMARY:Balancing payment for 2028-29 due (tax owed after any payments on a
+ ccount)
+DESCRIPTION:Balancing payment for 2028-29 due (tax owed after any payments 
+ on account). Who: Self Assessment taxpayers who owe tax. MTD does not chan
+ ge payment dates. Source: https://www.gov.uk/self-assessment-tax-returns/d
+ eadlines
+URL:https://www.gov.uk/self-assessment-tax-returns/deadlines
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2028-29-return@mtd-quarterly-deadlines.smallwright
+DTSTAMP:20261114T000000Z
+DTSTART;VALUE=DATE:20300131
+DTEND;VALUE=DATE:20300201
+SUMMARY:Tax return for 2028-29 due (online\, 11:59pm)
+DESCRIPTION:Tax return for 2028-29 due (online\, 11:59pm). Who: Everyone wh
+ o files a Self Assessment return (through MTD software if in MTD that year
+ ). Submitted through MTD-compatible software for anyone in MTD that year. 
+ Penalty points apply to late returns. Source: https://www.gov.uk/self-asse
+ ssment-tax-returns/deadlines
+URL:https://www.gov.uk/self-assessment-tax-returns/deadlines
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
